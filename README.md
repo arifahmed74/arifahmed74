@@ -23,7 +23,7 @@
 
   <h2>🧪 Projects & Labs</h2>
   <ul>
-    <li><a href="https://github.com/yourusername/active-directory-lab">Active Directory User Management Lab</a><br>
+    <li><a href="https://github.com/arifahmed74/active-directory-lab">Active Directory User Management Lab</a><br>
       Set up a domain controller, managed users/groups, and implemented GPOs in a virtual environment.</li>
     <li><a href="https://github.com/yourusername/windows-imaging-lab">Windows Imaging and Deployment Lab</a><br>
       Practiced imaging and deployment using MDT and Windows Deployment Services (WDS).</li>
