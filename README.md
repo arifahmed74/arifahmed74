@@ -29,7 +29,7 @@
       Practiced imaging and deployment using MDT and Windows Deployment Services (WDS).</li>
     <li><a href="https://github.com/arifahmed74/network-packet-analysis-lab">Network Troubleshooting and Packet Analysis</a><br>
       Captured and analyzed network traffic using Wireshark and interpreted TCP/IP packet data.</li>
-    <li><a href="https://github.com/yourusername/pentest-kali-lab">Penetration Testing with Kali Linux</a><br>
+    <li><a href="https://github.com/arifahmed74/Network-Penetration-Testing-">Penetration Testing with Kali Linux</a><br>
       Conducted vulnerability scans, exploits, and basic web app testing in a safe lab environment.</li>
   </ul>
 
