@@ -25,8 +25,8 @@
   <ul>
     <li><a href="https://github.com/arifahmed74/active-directory-lab">Active Directory User Management Lab</a><br>
       Set up a domain controller, managed users/groups, and implemented GPOs in a virtual environment.</li>
-    <li><a href="https://github.com/yourusername/windows-imaging-lab">Windows Imaging and Deployment Lab</a><br>
-      Practiced imaging and deployment using MDT and Windows Deployment Services (WDS).</li>
+    <li><a href="https://github.com/arifahmed74/network-packet-analysis-lab">Ticketng Systems Lab</a><br>
+      Hands-on lab using the Spiceworks ticketing system to simulate real-world IT support workflows including ticket creation, resolution, and escalation.</li>
     <li><a href="https://github.com/arifahmed74/network-packet-analysis-lab">Network Troubleshooting and Packet Analysis</a><br>
       Captured and analyzed network traffic using Wireshark and interpreted TCP/IP packet data.</li>
     <li><a href="https://github.com/arifahmed74/Network-Penetration-Testing-">Penetration Testing with Kali Linux</a><br>
