@@ -35,7 +35,7 @@
 
   <h2>📜 Certifications (In Progress)</h2>
   <ul>
-    <li>CompTIA A+ (Studying)</li>
+    <li>CompTIA A+ Certified Feb 10,2026 </li>
     <li>Google IT Support Certificate (Planned)</li>
   </ul>
 
